@@ -1,0 +1,27 @@
+.avatarContainer {
+    width: 60px; 
+    height: 60px;
+    border-radius: 50%; 
+    overflow: hidden; 
+    
+  }
+  
+ /* .avatar {
+    object-fit: cover; 
+  }*/
+  
+  
+  .toggleContent {
+    border-radius: 10px;
+  }
+  
+  .toggleLink {
+    font-weight: bold;
+    color: black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  }
+  
+  .toggleItem {
+    padding: 10px;
+  }
+  

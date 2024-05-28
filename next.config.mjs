@@ -1,4 +1,8 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {};
+const nextConfig = {
+  experimental: {
+    appDir: true,
+    asyncWebAssembly: true
+  },
+};
 
-export default nextConfig;
